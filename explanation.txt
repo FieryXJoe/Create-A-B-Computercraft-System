@@ -2,4 +2,4 @@ Modded Minecraft server me and friends are working on has programmable computers
 I decided to have some of my contraptions controlled wirelessly from a central computer in my house.
 There is Github integration and this will let me more easily change code in a normal text editor,
 and keep track of which files have been changed.
-This repository will have a different file for each computer in the network and the changed files.
+This repository will have a different folder for each computer in the network and the changed files.
