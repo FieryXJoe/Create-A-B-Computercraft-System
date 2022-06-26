@@ -16,7 +16,7 @@ for i = x,0,-1 do
     local timerup = os.startTimer(148)--delay before repeating
     while true do
         local event, timerID = os.pullEvent("timer")
-        if timerID == timerup then)
+        if timerID == timerup then
             break
         end
     end
